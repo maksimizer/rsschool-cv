@@ -14,7 +14,7 @@ I became a high-level specialist, but I don't like my present job any more. In a
 
 I have a strong communication skills, a good skills in problem solving, I don`t fear a great responsibility, I have an ability to learn and improve my skills and I always get the job done. I always wanted to be a useful part of a team and society, wanted to create something interesting, beautiful and valuable. 
 
-Now I think it's time to change something in my life and act! So, my path of becoming a Frontend/JS developer starts here! 
+Now I think it's time to change something in my life and act! I have already completed studying at RS School "JavaScript/Front-end. Stage 0" course. So, my path of becoming a Frontend/JS developer has already started and I like it very much! 
 
 ## Skills
 * HTML (basics)
