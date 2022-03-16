@@ -1,1 +1,1 @@
-# rsschool-cv
+https://maksimizer.github.io/rsschool-cv/cv
